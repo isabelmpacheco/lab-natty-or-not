@@ -37,6 +37,8 @@ https://app.heygen.com/videos/873b5e753b3a4259b70cf4312239f7fc
 
 https://app.heygen.com/share/873b5e753b3a4259b70cf4312239f7fc
 
+<iframe width="560" height="315" src="https://app.heygen.com/embeds/873b5e753b3a4259b70cf4312239f7fc" title="HeyGen video player" frameborder="0" allow="encrypted-media; fullscreen;" allowfullscreen></iframe>
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
