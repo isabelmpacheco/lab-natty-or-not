@@ -35,6 +35,8 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 https://app.heygen.com/videos/873b5e753b3a4259b70cf4312239f7fc
 
+https://app.heygen.com/share/873b5e753b3a4259b70cf4312239f7fc
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
